@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+Hey, there 👋! I'm Matheus S. I like to study and to explore technologies around me! Currently, I'm doing CS degree and searching for a internship.
+
+
 <!--
 **Matthew1523/Matthew1523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
